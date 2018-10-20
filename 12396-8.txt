@@ -12,6 +12,8 @@ Title: The Star-Chamber, Volume 1
 Author: W. Harrison Ainsworth
 
 Release Date: May 20, 2004 [EBook #12396]
+Last Updated: July 31, 2018
+
 
 Language: English
 
@@ -27,25 +29,21 @@ Produced by Charles Franks and the Distributed Proofreaders Team
 
 
 
-THE STAR-CHAMBER;
+THE STAR-CHAMBER; AN HISTORICAL ROMANCE,
 
 
-AN HISTORICAL ROMANCE,
+By W. Harrison Ainsworth, Esq.
+
+Author Of "Windsor Castle," &C.
 
 
-BY W. HARRISON AINSWORTH, ESQ.
-
-AUTHOR OF "WINDSOR CASTLE," &C.
-
-
-IN TWO VOLUMES.
+In Two Volumes.
 
 VOL. I.
 
+Leipzig
 
-LEIPZIG
-
-BERNHARD TAUCHNITZ
+Bernhard Tauchnitz
 
 1854.
 
@@ -91,15 +89,13 @@ XXVIII. The Secret
 
 
 
-  "I will make a Star-Chamber matter of it."
-  MERRY WIVES OF WINDSOR.
+  ````"I will make a Star-Chamber matter of it."
+  `````MERRY WIVES OF WINDSOR.
 
 
 
 
-CHAPTER I.
-
-The Three Cranes in the Vintry.
+CHAPTER I. The Three Cranes in the Vintry.
 
 
 Adjoining the Vintry Wharf, and at the corner of a narrow lane
@@ -146,8 +142,8 @@ Thames. And very well Madame Bonaventure fulfilled the duties of
 hostess, as will be seen.
 
 Now, as the skipper was a very sharp fellow, and perfectly understood
-his business-practically anticipating the Transatlantic axiom of buying
-at the cheapest market and gelling at the dearest-he soon contrived to
+his business--practically anticipating the Transatlantic axiom of buying
+at the cheapest market and selling at the dearest--he soon contrived to
 grow rich. He did more: he pleased his customers at the Three Cranes.
 Taking care to select his wines judiciously, and having good
 opportunities, he managed to obtain possession of some delicious
@@ -167,7 +163,7 @@ tongues, as our tavern was for fine Bordeaux and well-seasoned pâtés.
 Not the least, however, of the attractions of the Three Cranes, was the
 hostess herself. A lively little brunette was Madame Bonaventure, still
 young, or, at all events, very far from being old; with extremely fine
-teeth, which she was fond of displaying, and a remarkably neat ancle,
+teeth, which she was fond of displaying, and a remarkably neat ankle,
 which she felt no inclination to hide beneath the sweep of her round
 circling farthingale. Her figure was quite that of a miniature Venus;
 and as, like most of her country-women, she understood the art of dress
@@ -366,9 +362,7 @@ of these harpies, began to tremble for the result.
 
 
 
-CHAPTER II.
-
-Sir Giles Mompesson and his partner.
+CHAPTER II. Sir Giles Mompesson and his partner.
 
 
 Madame Bonaventure had already paid considerable sums to the two
@@ -435,7 +429,7 @@ wretched abode near the Marshalsea had reason to regret his visit. Now
 he was well enough known by many a courtly prodigal, and his large
 mansion near Fleet Bridge (it was said of him that he always chose the
 neigbourhood of a prison for his dwelling) was resorted to by the town
-gallants whose, necessities or extravagance compelled them to obtain
+gallants whose necessities or extravagance compelled them to obtain
 supplies at exorbitant interest. Lavish in his expenditure on occasions,
 Sir Giles was habitually so greedy and penurious, that he begrudged
 every tester he expended. He wished to keep up a show of hospitality
@@ -586,9 +580,7 @@ reader in our next chapter.
 
 
 
-CHAPTER III.
-
-The French ordinary.
+CHAPTER III. The French ordinary.
 
 
 The month allowed by the notice expired, and Madame Bonaventure's day of
@@ -789,9 +781,7 @@ from the clutches of the saucy Gascon, just as it was being borne away.
 
 
 
-CHAPTER IV.
-
-A Star-Chamber victim.
+CHAPTER IV. A Star-Chamber victim.
 
 
 His hunger being somewhat stayed, Sir Francis now found leisure to
@@ -962,9 +952,7 @@ aroused, its wrath is all-consuming."
 
 
 
-CHAPTER V.
-
-Jocelyn Mounchensey.
+CHAPTER V. Jocelyn Mounchensey.
 
 
 Notwithstanding the risk incurred, the young man, whose feelings were
@@ -1122,9 +1110,7 @@ It was now the knight's turn to start, change colour, and tremble.
 
 
 
-CHAPTER VI.
-
-Provocation.
+CHAPTER VI. Provocation.
 
 
 A momentary pause ensued, during which Mounchensey regarded the knight
@@ -1174,7 +1160,7 @@ Star-Chamber will uphold us."
 frightened. We have met for the first time by chance, but our next
 meeting shall be by appointment."
 
-"When and where you please, Sir Jocelyn," the knight replied; but
+"When and where you please, Sir Jocelyn," the knight replied; "but
 recollect the duello is forbidden, and, though I would not willingly
 disappoint you in your desire to cut my throat, I should be sorry to
 think you might be hanged for it afterwards. Come, Sir Jocelyn, lay
@@ -1306,9 +1292,7 @@ Lord Roos quit his place at the upper table and approach him.
 
 
 
-CHAPTER VII.
-
-How Lord Roos obtained Sir Francis Mitchell's signature.
+CHAPTER VII. How Lord Roos obtained Sir Francis Mitchell's signature.
 
 
 "What, my prince of usurers!" exclaimed Lord Roos, in a mocking tone;
@@ -1462,10 +1446,7 @@ familiars.
 
 
 
-CHAPTER VIII.
-
-Of Lupo Vulp, Captain Bludder, Clement Lanyere, and Sir Giles's other
-Myrmidons.
+CHAPTER VIII. Of Lupo Vulp, Captain Bludder, Clement Lanyere, and Sir Giles's other Myrmidons.
 
 
 Close behind Sir Giles, and a little in advance of the rest of the
@@ -1619,9 +1600,7 @@ against me, is the son of a Star-Chamber delinquent."
 
 
 
-CHAPTER IX.
-
-The Letters-Patent.
+CHAPTER IX. The Letters-Patent.
 
 
 A slight reaction in Sir Giles's favour was produced by his speech, but
@@ -1950,7 +1929,7 @@ receipt in full of your joint claims against Madame Bonaventure. I have
 done it, Sir Giles; and here it is. And I have taken care to grant a
 renewal of her licence from the date of your notice; so that no
 penalties or fines can attach to her for neglect. Take it, Madame
-Bonaventure" he continued, handing her the paper. "It is your full
+Bonaventure," he continued, handing her the paper. "It is your full
 acquittance."
 
 "And think you, my lord, that this shallow artifice--to give it no
@@ -2173,9 +2152,7 @@ acclamations of the spectators, was rowed towards Whitehall.
 
 
 
-CHAPTER X.
-
-The 'prentices and their leader.
+CHAPTER X. The 'prentices and their leader.
 
 
 While the Marquis of Buckingham and his suite were moving towards the
@@ -2351,9 +2328,7 @@ would have served to guide the 'prentices to the scene of conflict.
 
 
 
-CHAPTER XI.
-
-John Wolfe.
+CHAPTER XI. John Wolfe.
 
 
 When Jocelyn Mounchensey called for his reckoning, Madame Bonaventure
@@ -2538,9 +2513,7 @@ as soon as he had made good his retreat.
 
 
 
-CHAPTER XII.
-
-The Arrest and the Rescue.
+CHAPTER XII. The Arrest and the Rescue.
 
 
 Lupo Vulp had endeavoured to dissuade Sir Giles from putting his design
@@ -2861,7 +2834,7 @@ the moment that Sir Giles Mompesson, having fought his way through all
 opposition, issued from the porch at the head of his band.
 
 Quite satisfied with his previous encounter with the redoubtable knight,
-and anxious to escape before his evasion should he discovered, Dick
+and anxious to escape before his evasion should be discovered, Dick
 beckoned to his companion, and, making all the haste they could to the
 stairs, they both jumped into the nearest wherry, when the apprentice
 ordered the two watermen within it to row for their lives to
@@ -2870,9 +2843,7 @@ London-bridge.
 
 
 
-CHAPTER XIII.
-
-How Jocelyn Mounchensey encountered a masked horseman on Stamford Hill.
+CHAPTER XIII. How Jocelyn Mounchensey encountered a masked horseman on Stamford Hill.
 
 
 Two days after the events last recorded, a horseman, followed at a
@@ -3221,9 +3192,7 @@ And they proceeded on their way towards Tottenham, and were presently
 saluted by the merry ringing of bells, proclaiming some village
 festival.
 
-FOOTNOTES:
-
-[1] Lest we should be charged with an anachronism, we may mention that
+NOTE: [1] Lest we should be charged with an anachronism, we may mention that
 the Bell at Edmonton, immortalized in the story of John Gilpin, was in
 good repute in the days we treat of, as will appear from the following
 extract from John Savile's Tractate entitled, _King James, his
@@ -3247,9 +3216,7 @@ at this period, the foregoing passage is curious in other respects.
 
 
 
-CHAPTER XIV.
-
-The May-Queen and the Puritan's Daughter.
+CHAPTER XIV. The May-Queen and the Puritan's Daughter.
 
 
 Popular sports and pastimes were wisely encouraged by James the First,
@@ -3612,9 +3579,7 @@ contemptuously forth; so that it fell at Jocelyn's feet.
 
 
 
-CHAPTER XV.
-
-Hugh Calveley.
+CHAPTER XV. Hugh Calveley.
 
 
 Jocelyn at once comprehended that the person who had thus dashed the
@@ -3722,9 +3687,7 @@ in Aveline forbade all interference with her father.
 
 
 
-CHAPTER XVI.
-
-Of the sign given by the Puritan to the Assemblage.
+CHAPTER XVI. Of the sign given by the Puritan to the Assemblage.
 
 
 Meanwhile, a great crowd had collected beneath the window, and though no
@@ -3948,9 +3911,7 @@ dream it seemed.
 
 
 
-CHAPTER XVII.
-
-A rash promise.
+CHAPTER XVII. A rash promise.
 
 
 During the slender repast, Jocelyn, in reply to the inquiries of the
@@ -4122,9 +4083,7 @@ enjoined.
 
 
 
-CHAPTER XVIII.
-
-How the promise was cancelled.
+CHAPTER XVIII. How the promise was cancelled.
 
 
 It was a large garden, once fairly laid out and planted, but now sadly
@@ -4333,9 +4292,7 @@ contrast to what was passing in the Puritan's garden.
 
 
 
-CHAPTER XIX.
-
-Theobalds' Palace.
+CHAPTER XIX. Theobalds' Palace.
 
 
 The magnificent palace of Theobalds, situated near Cheshunt, in
@@ -4793,9 +4750,7 @@ sign."
 
 
 
-CHAPTER XX.
-
-King James the First.
+CHAPTER XX. King James the First.
 
 
 Meantime the royal cavalcade came slowly up the avenue. It was very
@@ -5022,7 +4977,7 @@ behoof. He is a weel-grown, weel-favoured laddie, almost as much sae as
 our ain dear dog Steenie; but we wad say to him, in the words of the
 Roman bard,
 
-  'O formose puer, nimium ne crede colori!'
+  ````'O formose puer, nimium ne crede colori!'
 
 Gude pairts are better than gude looks; not that the latter are to be
 undervalued, but baith should exist in the same person. We shall soon
@@ -5127,9 +5082,7 @@ Suddenly stepping from behind a large tree which had concealed him from
 view, a man in military habiliments, with grizzled hair and beard, and
 an exceedingly resolute and stern cast of countenance, planted himself
 directly in the monarch's path, and extending his hand towards him,
-exclaimed, in a loud voice,
-
-"Stand! O King!"
+exclaimed, in a loud voice, "Stand! O King!"
 
 "Who art thou, fellow? and what wouldst thou?" demanded James, who had
 checked his horse with such suddenness as almost to throw himself out
@@ -5155,9 +5108,7 @@ after thee! Thus saith the Lord, whose messenger I am."
 
 
 
-CHAPTER XXI.
-
-Consequences of the Puritan's warning.
+CHAPTER XXI. Consequences of the Puritan's warning.
 
 
 Coupling Hugh Calveley's present strange appearance and solemn warning
@@ -5383,7 +5334,7 @@ behoof. Our gratitude is due to Him who watcheth ower us."
 "And in some degree to him who hath been made the instrument of your
 Majesty's preservation," observed the Conde de Gondomar, who formed one
 of the group near the King. "Since the foul traitor hath proclaimed the
-name of my young protegé", there can be no need for further concealment.
+name of my young protegé, there can be no need for further concealment.
 Master Jocelyn Mounchensey hath been singularly fortunate in rendering
 your Majesty a service, and may for ever congratulate himself on his
 share--accidental though it be--in this affair."
@@ -5507,9 +5458,7 @@ her more."
 
 
 
-CHAPTER XXII.
-
-Wife and Mother-in-Law.
+CHAPTER XXII. Wife and Mother-in-Law.
 
 
 Quick steps descended the narrow staircase--steps so light and cautious
@@ -5577,9 +5526,7 @@ if I am compelled to send them thither. Fools to torment me thus!"
 
 Feeling she had heard more than she ought, the Countess would have
 retired; but as retreat might have betrayed her, she deemed it better to
-announce her presence by saying,
-
-"You are not alone, my Lord."
+announce her presence by saying, "You are not alone, my Lord."
 
 Startled by her voice, Lord Roos instantly turned, and regarded her with
 haggard looks.
@@ -5864,9 +5811,7 @@ they had any doubts remaining) were his wife and mother-in-law.
 
 
 
-CHAPTER XXIII.
-
-The Tress of Hair.
+CHAPTER XXIII. The Tress of Hair.
 
 
 How to extricate himself from the dilemma in which he was placed, Lord
@@ -6299,9 +6244,7 @@ her daughter, before Lord Roos could utter a reply.
 
 
 
-CHAPTER XXIV.
-
-The Fountain Court.
+CHAPTER XXIV. The Fountain Court.
 
 
 On the morning after the eventful passage in his life, previously
@@ -6404,9 +6347,7 @@ to wait there till her return.
 
 
 
-CHAPTER XXV.
-
-Sir Thomas Lake.
+CHAPTER XXV. Sir Thomas Lake.
 
 
 A grave-looking man, of a melancholy and severe aspect, and attired in a
@@ -6676,9 +6617,7 @@ he slowly followed her.
 
 
 
-CHAPTER XXVI.
-
-The forged Confession.
+CHAPTER XXVI. The forged Confession.
 
 
 Some little time had elapsed since Aveline's departure on her sorrowful
@@ -7066,9 +7005,7 @@ back if it cost him his life.
 
 
 
-CHAPTER XXVII.
-
-The Puritan's Prison.
+CHAPTER XXVII. The Puritan's Prison.
 
 
 Hugh Calveley, it has already been intimated, was lodged in a vault
@@ -7221,9 +7158,7 @@ sad heart, he departed.
 
 
 
-CHAPTER XXVIII.
-
-The Secret.
+CHAPTER XXVIII. The Secret.
 
 
 Thrice was the guard relieved during that long night, and as often was
@@ -7433,9 +7368,7 @@ So saying, he quitted the vault with his physician.
 
 
 
-CHAPTER XXIX.
-
-Luke Hatton.
+CHAPTER XXIX. Luke Hatton.
 
 
 Feigning sudden indisposition (and the excuse was not altogether without
@@ -7750,7 +7683,7 @@ her the paper on which the names were written, "it will suffice for me."
 but a few strokes of a pen."
 
 "Those few strokes will cost me my soul," she rejoined. "But if it must
-he so, it must. Give me the pen."
+be so, it must. Give me the pen."
 
 And as Lord Roos complied, she signed the paper.
 
@@ -7759,7 +7692,7 @@ with a diabolical grin. "You may count upon your reward."
 
 "In a week's time, my lord," said Luke Hatton, still grinning, and
 shifting his glance from the half-fainting Countess to the young
-nobleman; "in a week's time" he repeated, "you will have to put on
+nobleman; "in a week's time," he repeated, "you will have to put on
 mourning for your wife--and in a month for your mother-in-law."
 
 And with a cringing bow, and moving with a soft cat-like footstep, he
